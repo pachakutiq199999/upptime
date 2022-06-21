@@ -25,9 +25,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.now.cc
   # baseUrl: /your-repo-name
-  logoUrl: https://uptime.now.cc/DA8CFBAC-0D60-4DC5-91B8-B3728AA65C7F.png
+  logoUrl: https://mojito.alwaysdata.net/uptimeicon.png
   name: Uptime
-  favicon: https://uptime.now.cc/DA8CFBAC-0D60-4DC5-91B8-B3728AA65C7F.png
+  favicon: https://mojito.alwaysdata.net/uptimeicon.png
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
