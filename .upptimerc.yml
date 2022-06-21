@@ -1,31 +1,38 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: pachakutiq199999 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: pachakutiq199999
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Justmojito.com
+    url: https://justmojito.com
+    maxResponseTime: 5000
+  - name: Justmojito.xyz
+    url: https://justmojito.xyz
+    maxResponseTime: 5000
+  - name: Mojito EU
+    url: https://mojito.eu.org
+    maxResponseTime: 5000
+  - name: Mail
+    url: https://mail.justmojito.com
+    maxResponseTime: 5000
+  - name: RSS
+    url: https://rss.orgs.hk
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: uptime.now.cc
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://uptime.now.cc/DA8CFBAC-0D60-4DC5-91B8-B3728AA65C7F.png
+  name: Uptime
+  favicon: https://uptime.now.cc/DA8CFBAC-0D60-4DC5-91B8-B3728AA65C7F.png
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
