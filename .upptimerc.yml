@@ -29,7 +29,7 @@ status-website:
   name: Uptime
   favicon: https://uptime.now.cc/favicon-32x32.png
   introTitle: "**Uptime Monitor**"
-  introMessage: **Real-time** data of servers. [GitHub repository](https://github.com/pachakutiq199999/upptime).
+  introMessage: This status page shows **real-time** data of servers. [GitHub repository](https://github.com/pachakutiq199999/upptime).
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
