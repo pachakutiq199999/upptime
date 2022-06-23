@@ -6,18 +6,23 @@ user-agent: pachakutiq199999
 sites:
   - name: Justmojito.com
     url: https://justmojito.com
+    icon: https://mojito.alwaysdata.net/upptimesitesfavicon.ico
     maxResponseTime: 5000
   - name: Justmojito.xyz
     url: https://justmojito.xyz
+    icon: https://mojito.alwaysdata.net/upptimesitesfavicon.ico
     maxResponseTime: 5000
   - name: Mojito EU
     url: https://mojito.eu.org
+    icon: https://mojito.alwaysdata.net/upptimesitesfavicon.ico
     maxResponseTime: 5000
   - name: Mail
     url: https://mail.justmojito.com
+    icon: https://mojito.alwaysdata.net/upptimesitesfavicon.ico
     maxResponseTime: 5000
   - name: RSS
     url: https://rss.orgs.hk
+    icon: https://mojito.alwaysdata.net/upptimesitesfavicon.ico
     maxResponseTime: 5000
 
 status-website:
@@ -26,9 +31,9 @@ status-website:
   cname: uptime.now.cc
   # baseUrl: /your-repo-name
   logoUrl: https://uptime.now.cc/logo-512.png
-  name: Uptime
-  favicon: https://uptime.now.cc/favicon-32x32.png
-  introTitle: "**Uptime Monitor**"
+  name: Upptime
+  favicon: https://mojito.alwaysdata.net/upptimefavicon-32x32.png
+  introTitle: "**Upptime Monitor**"
   introMessage: This status page shows **real-time** data of servers. [GitHub repository](https://github.com/pachakutiq199999/upptime).
 
 # Upptime also supports notifications, assigning issues, and more
